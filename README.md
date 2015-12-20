@@ -9,7 +9,7 @@
 1. Right-click a Dwarf
 2. Select `Customize`
 3. Click the preferred profession
-4. Optionally modify nay roles as you see fit
+4. Optionally modify any roles as you see fit
 5. Press "Commit" (or `Alt+C`) to apply the profession in-game
 
 #### About Professions
