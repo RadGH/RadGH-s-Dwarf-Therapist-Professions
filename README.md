@@ -14,7 +14,7 @@ All roles are prefixed with symbols to act as an at-a-glance categorization.
 
 | Symbol | Description |
 |:-:|---|
-| **@** | Generic Profession |
-| ***@** | Specific Profession (One task) |
-| **\$@\$** | Noble |
-| **\[@\]** | Soldier/Military |
+| @ | Generic Profession |
+| *@ | Specific Profession (One task) |
+| $@$ | Noble |
+| [@] | Soldier/Military |
