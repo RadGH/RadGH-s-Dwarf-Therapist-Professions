@@ -41,8 +41,9 @@ All roles are prefixed with symbols to act as an at-a-glance categorization.
 8. Miner
 9. Misc. Crafter (Tanning, Clothier, Bone crafting, etc.)
 10. Smith
-11. Woodcutter
-12. Worker (Many tasks)
+11. Stonecrafter
+12. Woodcutter
+13. Worker (Many tasks)
 
 **Specialized Professions**
 
@@ -53,18 +54,19 @@ All roles are prefixed with symbols to act as an at-a-glance categorization.
 5. Brewer
 6. Builder
 7. Butcher
-8. Cook
-9. Farmer
-10. Gatherer
-11. Gem Cutter
-12. Grave Digger
-13. Mason
-14. Metalcrafter
-15. Miner
-16. Rescue
-17. Smelter
-18. Stone Detailer
-19. Weaponsmith
+8. Carpenter
+9. Cook
+10. Farmer
+11. Gatherer
+12. Gem Cutter
+13. Grave Digger
+14. Mason
+15. Metalcrafter
+16. Miner
+17. Rescue
+18. Smelter
+19. Stone Detailer
+20. Weaponsmith
 
 **Noblility / Assigned**
 
