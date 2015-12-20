@@ -33,19 +33,18 @@ All roles are prefixed with symbols to act as an at-a-glance categorization.
 
 **Generic Professions**
 
-1. Brewer
-2. Carpenter
-3. Doctor
-4. Farmer
-5. Hauler
-6. Hunter
-7. Mason
-8. Miner
-9. Misc. Crafter (Tanning, Clothier, Bone crafting, etc.)
-10. Smith
-11. Stonecrafter
-12. Woodcutter
-13. Worker (Many tasks)
+1. Carpenter
+2. Doctor
+3. Farmer
+4. Hauler
+5. Hunter
+6. Mason
+7. Miner
+8. Misc. Crafter (Tanning, Clothier, Bone crafting, etc.)
+9. Smith
+10. Stonecrafter
+11. Woodcutter
+12. Worker (Many tasks)
 
 **Specialized Professions**
 
