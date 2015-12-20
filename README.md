@@ -1,5 +1,7 @@
 # Rad's Dwarf Therapist Professions
 
+## [Click here to download](https://raw.githubusercontent.com/RadGH/Rad-s-Dwarf-Therapist-Professions/master/custom_professions.dtp) (Right-click, save as)
+
 #### How to install:
 1. Run [Dwarf Therapist](http://www.bay12forums.com/smf/index.php?topic=122968.0)
 2. Go to `File > Import Custom Professions`
