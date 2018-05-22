@@ -6,7 +6,7 @@ Adds 44 custom professions to Dwarf Therapist, which fall under three different 
 
 ### Installation:
 
-1. [Click here to download](https://raw.githubusercontent.com/RadGH/Rad-s-Dwarf-Therapist-Professions/master/custom_professions.dtp) (Right-click, save as)
+1. [Click here to download](https://raw.githubusercontent.com/RadGH/RadGH-s-Dwarf-Therapist-Professions/master/custom_professions.dtp) (Right-click, save as)
 2. Open [Dwarf Therapist](http://www.bay12forums.com/smf/index.php?topic=168411.0)
 3. File > Import Custom Professions
 4. Load the file `custom_professions.dtp` that you just downloaded.
