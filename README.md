@@ -1,85 +1,101 @@
-# Rad's Dwarf Therapist Professions
+# RadGH's Dwarf Therapist Professions
 
-## [Click here to download](https://raw.githubusercontent.com/RadGH/Rad-s-Dwarf-Therapist-Professions/master/custom_professions.dtp) (Right-click, save as)
+**Updated for Dwarf Fortress 0.44.10** on May 21st, 2018.
 
-![Preview of custom professions assigned to dwarves on the Nobles interface of Dwarf Fortress](https://goo.gl/Cy8t0B)
+Adds 44 custom professions to Dwarf Therapist, which fall under three different categories of professions.
 
-#### How to install:
-1. Run [Dwarf Therapist](http://www.bay12forums.com/smf/index.php?topic=122968.0)
-2. Go to `File > Import Custom Professions`
-3. Ensure all professions are checked, then click `Import Selected`
+### Installation:
 
-#### How to assign a profession
-1. Right-click a Dwarf
-2. Select `Customize`
-3. Click the preferred profession
-4. Optionally modify any roles as you see fit
-5. Press "Commit" (or `Alt+C`) to apply the profession in-game
+1. [Click here to download](https://raw.githubusercontent.com/RadGH/Rad-s-Dwarf-Therapist-Professions/master/custom_professions.dtp) (Right-click, save as)
+2. Open [Dwarf Therapist](http://www.bay12forums.com/smf/index.php?topic=168411.0)
+3. File > Import Custom Professions
+4. Load the file `custom_professions.dtp` that you just downloaded.
 
-#### About Professions
+>Preview using [Meph's Tileset](http://www.bay12forums.com/smf/index.php?topic=161047.0) _(which changes `$` to a crown, and `@` to crossed-swords)_.
+>
+> ![Preview of custom professions assigned to dwarves on the Nobles interface of Dwarf Fortress](https://s3-us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-868470985522/ShareX/2018/05/Dwarf%20Fortress_2018-05-22_00-44-31.png)
 
-These professions are intended to simplify the act of assigning roles to your Dwarves. Furthermore, I'm using a tiered approach to allow unskilled dwarves perform a variety of related tasks, while your experienced dwarves focus one a specific task.
+## Profession Categories
 
-All roles are prefixed with symbols to act as an at-a-glance categorization.
+**1. Workforce:**
 
-| Symbol | Description |
-|:-:|---|
-| @ | Generic |
-| *@ | Specialized |
-| $@$ | Noblility / Assigned |
-| [@] | Military |
+Prefixed with a number for quick identification of skill level. For example `1: Cleaner` has many cleaning/hauling labors, while the more specialized roles such as `2: Weaponsmith` have only the specific skill, intended for skill-based labors.
 
-#### Current Professions
+**2. Soldiers:**
+
+Prefixed such as `@ Elite`. Four versions include Militia, Soldier, Elite, and Archer. Used primarily for categorizing your military. All labors are the same and exclude stone and wood hauling to prevent Dwarves from being caught carrying heavy objects when drafted.
+
+**3. Nobles:**
+
+Prefixed such as `$ Noble`. Only two professions exist, which you should rename as needed for your Queen, Hammer, etc. One profession is `$ Leader` with labors similar to a worker. The other is `$ Noble` which has no labors, for your lazy king and his entourage.
+
+## More Details
 
 **Generic Professions**
 
-1. Carpenter
-2. Doctor
-3. Farmer
-4. Hauler
-5. Hunter
-6. Mason
-7. Miner
-8. Misc. Crafter (Tanning, Clothier, Bone crafting, etc.)
-9. Smith
-11. Woodcutter
-12. Worker (Many tasks)
+If your dwarves aren't good at anything, put them here. If you have a lot of workers, you should make some workshops restricted to higher skill levels.
+
+```
+1: Cleaner
+1: Hauler
+1: Housekeeper  (Cleaning, hauling)
+1: Laborer      (Cleaning, hauling, building)
+1: Worker       (Cleaning, hauling, building, crafting)
+1: Woodsman     (Great for your starting 7)
+1: Stoneworker  (Great for your starting 7)
+```
 
 **Specialized Professions**
 
-1. Animal Trainer
-2. Armorer
-3. Blacksmith
-4. Bookmaker
-5. Brewer
-6. Builder
-7. Butcher
-8. Carpenter
-9. Cleaner
-10. Cook
-11. Farmer
-12. Gatherer
-13. Gem Cutter
-14. Grave Digger
-15. Mason
-16. Metalcrafter
-17. Miner
-18. Rescuer
-19. Smelter
-20. Stone Detailer
-21. Stonecrafter
-22. Weaponsmith
-23. Woodcutter
+These professions are pretty specific and should go to your skilled dwarves.
 
-**Noblility / Assigned**
+```
+2: Animal Trainer
+2: Armorer
+2: Blacksmith
+2: Bonecarver
+2: Brewer
+2: Builder
+2: Carpenter
+2: Clothier
+2: Cook
+2: Doctor
+2: Farmer
+2: Furnacedwarf
+2: Gemsetter
+2: Hunter
+2: Leatherworker
+2: Mason
+2: Metalcrafter
+2: Miner
+2: Nurse            (Only feeds patients)
+2: Plant Gatherer
+2: Siegebuilder     (Builds siege weapons)
+2: Siegedriver      (Fires siege weapons)
+2: Stone Detailer
+2: Stonecrafter
+2: Strand Extractor
+2: Weaponsmith
+2: Woodcrafter
+2: Woodcutter
+```
 
-1. Monarch
-2. Noble
-3. Scholar
-4. Employee (For Tavernkeep, Entertainer, etc.)
+**Noblility**
+
+You should generally use the Noble labor if you want to keep your nobles free. Rename it on an individual basis, optional.
+
+```
+$ Noble    (Basic hauling labors)
+$ Leader   (Same labors as 1: Worker, used for Expedition leader)
+```
 
 **Military**
 
-1. Commander
-2. Soldier
-3. Marksman
+These professions are mainly for identifying units on the military screen (especially by searching with dfhack!). They do not carry wood or stone so that they don't get drafted while slowed by hauling a heavy object.
+
+```
+@ Elite     (For your most skilled soldiers)
+@ Soldier
+@ Militia
+@ Archer    (For crossbow-punchers)
+```
