@@ -15,6 +15,19 @@ Adds 44 custom professions to Dwarf Therapist, which fall under three different 
 >
 > ![Preview of custom professions assigned to dwarves on the Nobles interface of Dwarf Fortress](https://s3-us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-868470985522/ShareX/2018/05/Dwarf%20Fortress_2018-05-22_00-44-31.png)
 
+## How to use this effectively
+
+Here is an example scenario describing how I personally use these professions. Once you get the hang of it, this takes up very little time and helps ensure you didn't miss a dwarf.
+
+1. A new migrant wave arrives.
+2. Go to [Dwarf Therapist](http://www.bay12forums.com/smf/index.php?topic=168411.0) and sort by `Migration wave`.
+3. Assigning **Soldiers**: Go to the military tab and examine dwarves from the most recent wave. Assign notable dwarves to a military profession (Based on fighter and weapon skills, or marksdwarf skill).
+4. Assigning **Skilled Crafters**: Go back to the labors tab and find best skilled dwarves and assign them to their appropriate `2: (Skillname)` role. Ignore useless skills, of course.
+5. Assigning **Workers**: Now that your soldiers and skilled dwarves are assigned, switch sorting from Migration Wave to Profession. Because of the prefixes for the custom professions, any unassigned dwarves will appear at the bottom of the list. Assign these to Worker, Laborer, Hauler, or Cleaner depending on demand.
+6. Once all are assigned and you wait for them all to get on the map, assign your soldiers to squads as needed. You can search for their professions on the military screen with dfhack. You can also assign dwarves to squads in Dwarf Therapist itself (thanks u/gjallerhorn).
+7. Periodically check your generic workers (any with the prefix of "1:") and assign any who have gained skills in one area to be a specialized worker, like a "2: Mason".
+8. Optionally assign your **nobles** as needed / if desired.
+
 ## Profession Categories
 
 **1. Workforce:**
