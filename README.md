@@ -1,6 +1,6 @@
 # RadGH's Dwarf Therapist Professions
 
-**Updated for Dwarf Fortress 0.44.10** on May 21st, 2018.
+**Updated for Dwarf Fortress 0.44.10** on June 6th, 2018.
 
 Adds 45 custom professions to Dwarf Therapist, which fall under three different categories of professions.
 
