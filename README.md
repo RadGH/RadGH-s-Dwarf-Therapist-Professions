@@ -2,7 +2,7 @@
 
 **Updated for Dwarf Fortress 0.44.10** on May 21st, 2018.
 
-Adds 44 custom professions to Dwarf Therapist, which fall under three different categories of professions.
+Adds 45 custom professions to Dwarf Therapist, which fall under three different categories of professions.
 
 ### Installation:
 
@@ -75,10 +75,12 @@ These professions are pretty specific and should go to your skilled dwarves.
 2: Doctor
 2: Farmer
 2: Furnacedwarf
+2: Gemcutter
 2: Gemsetter
 2: Hunter
 2: Leatherworker
 2: Mason
+2: Mechanic         (Makes mechanisms, builds bridges, place buildings that use mechanisms)
 2: Metalcrafter
 2: Miner
 2: Nurse            (Only feeds patients)
