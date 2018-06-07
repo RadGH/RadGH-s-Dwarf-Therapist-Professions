@@ -36,7 +36,7 @@ Prefixed with a number for quick identification of skill level. For example `1: 
 
 **2. Soldiers:**
 
-Prefixed such as `@ Elite`. Four versions include Militia, Soldier, Elite, and Archer. Used primarily for categorizing your military. All labors are the same and exclude stone and wood hauling to prevent Dwarves from being caught carrying heavy objects when drafted.
+Prefixed such as `@ Elite`. Four versions include Militia, Soldier, Elite, and Archer. A fifth option is Scout, intended for your scouting missions. Used primarily for categorizing your military. All labors are the same and exclude stone and wood hauling to prevent Dwarves from being caught carrying heavy objects when drafted.
 
 **3. Nobles:**
 
@@ -111,4 +111,5 @@ These professions are mainly for identifying units on the military screen (espec
 @ Soldier
 @ Militia
 @ Archer    (For crossbow-punchers)
+@ Scout     (For scouting missions)
 ```
