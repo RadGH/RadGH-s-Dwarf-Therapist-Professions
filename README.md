@@ -15,6 +15,9 @@ Adds 45 custom professions to Dwarf Therapist, which fall under three different 
 >
 > ![Preview of custom professions assigned to dwarves on the Nobles interface of Dwarf Fortress](https://s3-us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-868470985522/ShareX/2018/05/Dwarf%20Fortress_2018-05-22_00-44-31.png)
 
+## Preview of all professions
+![All professions displayed in Dwarf Therapist](https://s3.us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-868470985522/ShareX/2022/06/dwarf-therapist-professions-by-radley.png)
+
 ## How to use this effectively
 
 Here is an example scenario describing how I personally use these professions. Once you get the hang of it, this takes up very little time and helps ensure you didn't miss a dwarf.
