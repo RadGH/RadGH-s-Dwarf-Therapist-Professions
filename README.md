@@ -1,6 +1,7 @@
 # RadGH's Dwarf Therapist Professions
 
 **Updated for Dwarf Fortress 0.47.05 (Dwarf Therapist 41.2.3)** 
+
 Updated on June 14th, 2022. No changes were made to the professions, but the file has been re-exported for the latest version of Dwarf Therapist.
 
 Adds 45 custom professions to Dwarf Therapist, which fall under three different categories of professions.
@@ -13,7 +14,9 @@ Adds 45 custom professions to Dwarf Therapist, which fall under three different 
 4. Load the file `custom_professions.dtp` that you just downloaded.
 
 ## Preview of all professions
+
 (*except noble and leader, which I forgot)
+
 ![All professions displayed in Dwarf Therapist](https://s3.us-west-2.amazonaws.com/elasticbeanstalk-us-west-2-868470985522/ShareX/2022/06/dwarf-therapist-professions-by-radley.png)
 
 >Preview using [Meph's Tileset](http://www.bay12forums.com/smf/index.php?topic=161047.0) _(which changes `$` to a crown, and `@` to crossed-swords)_ (from 2018).
